@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://run.linjincan.com/sitemap/sitemap-index.xml
+Sitemap: https://run.linjincan.com/running_page/sitemap/sitemap-index.xml
 Host: https://run.linjincan.com
