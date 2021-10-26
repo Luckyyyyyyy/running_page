@@ -119,5 +119,5 @@ jobs:
           commit-message: "Add new runs"
           files: activities src/static/ scripts/ assets/ GPX_OUT/
           rebase: 'true'
-          name: ${{ env.NAME }}
-          email: ${{ env.EMAIL }}
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
