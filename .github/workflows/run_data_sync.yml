@@ -23,7 +23,7 @@ env:
   ATHLETE: LinJincan
   TITLE: LinJincan Running
   MIN_GRID_DISTANCE: 10 # change min distance here
-  TITLE_GRID: Over 10km Runs # also here
+  TITLE_GRID: Over 3km Runs # also here
   GITHUB_NAME: LinJincan
   GITHUB_EMAIL: a466151231@gmail.com
 
